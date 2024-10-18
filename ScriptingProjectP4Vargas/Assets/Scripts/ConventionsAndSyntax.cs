@@ -20,7 +20,7 @@ public class ConventionsAndSyntax : MonoBehaviour
         //I want the console to say something if my object is below 5
         if (transform.position.y <= 5f)
         {
-            Debug.Log("CURSE YOU BAYLE!!! I HEREBY VOW, YOU WILL RUE THIS DAY!!! BEHOLD, A TRUE DRAKE WARRIOR AND I, IGON!!! YOUR FEARS MADE FLESH!!! SOLID OF SCALE YOU MIGHT BE FOUL DRAGON!!! BUT I WILL RIDDLE WITH HOLES YOUR ROTTEN HIDE!!! WITH A HAIL OF HARPOONS!!! WITH EVERY DROP OF MY BEING!!! RRRRAAAAAAHHHHHH!!!");
+            Debug.Log("Im about to hit the ground!");
         }
     }
 }
